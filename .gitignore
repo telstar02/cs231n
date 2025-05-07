@@ -1,0 +1,14 @@
+
+# Byte‐compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+datasets/
+build/
+pretrained_model/
+data/
+
+# Colab checkpoints
+.ipynb_checkpoints/
+
